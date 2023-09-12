@@ -16,8 +16,7 @@
   "bugs": {
     "url": "https://github.com/peanutbuttersharkface/fallcse341/issues"
   },
-  "homepage": "https://github.com/peanutbuttersharkface/fallcse341#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "homepage": "https://github.com/peanutbuttersharkface/fallcse341#readme"
+  
+  
 }
