@@ -15,7 +15,8 @@ exports.postUser = async (req, res, next) => {
         firstName: req.body.firstName,
         lastName: req.body.lastName,
         email: req.body.email,
-        age: req.body.age,
+        favoriteColor: req.body.favoriteColor,
+        birthday: req.body.birthday
     })
     user.save().then(user => {
         res.status(201).json({
